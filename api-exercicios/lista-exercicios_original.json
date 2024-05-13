@@ -1,0 +1,190 @@
+{
+    "exercicios": [
+        {
+            "uuid": "45688cd6-7a27-4a7b-89c5-a9b604eefe2f",
+            "nome": "Flexão de braço",
+            "repeticoes": "3 séries de 15 repetições",
+            "descricao": "Deite-se no chão com as mãos posicionadas na largura dos ombros e os pés estendidos. Abaixe o corpo até que o peito quase toque o chão, mantendo o corpo reto, e então empurre de volta à posição inicial."
+        },
+        {
+            "uuid": "9a118e4d-821a-44c7-accc-fa99ac4be01a",
+            "nome": "Barra fixa",
+            "repeticoes": "3 séries de 10 repetições",
+            "descricao": "Segure uma barra fixa com as palmas das mãos voltadas para longe do corpo e os braços estendidos. Levante o corpo até que o queixo ultrapasse a barra e então abaixe lentamente de volta à posição inicial."
+        },
+        {
+            "uuid": "29587bee-7642-43bd-a635-076b18995f39",
+            "nome": "Agachamento",
+            "repeticoes": "3 séries de 20 repetições",
+            "descricao": "Fique em pé com os pés na largura dos ombros. Flexione os joelhos e abaixe o corpo como se fosse sentar em uma cadeira, mantendo os joelhos alinhados com os tornozelos, e então retorne à posição inicial."
+        },
+        {
+            "uuid": "a2933e23-5521-4361-90f0-4ffa9b7d1de0",
+            "nome": "Prancha",
+            "repeticoes": "3 séries de 30 segundos",
+            "descricao": "Deite-se de barriga para baixo, apoie os antebraços e os dedos dos pés no chão, mantendo o corpo reto e paralelo ao chão. Segure essa posição, contraindo os músculos abdominais."
+        },
+        {
+            "uuid": "87c3bde9-5590-4db1-a62e-74b6a649e9d5",
+            "nome": "Afundo",
+            "repeticoes": "3 séries de 12 repetições por perna",
+            "descricao": "Fique em pé com os pés na largura dos ombros. Dê um passo à frente com uma perna e abaixe o corpo até que ambos os joelhos estejam dobrados em cerca de 90 graus, mantendo o joelho de trás quase tocando o chão. Volte à posição inicial e repita com a outra perna."
+        },
+        {
+            "uuid": "0bae82e9-3a85-4f37-8ad4-feba28bac1c4",
+            "nome": "Flexão diamante",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Assuma a posição de flexão com as mãos juntas abaixo do peito, formando um diamante com os polegares e os indicadores. Faça flexões, mantendo os cotovelos próximos ao corpo."
+        },
+        {
+            "uuid": "ed509145-bf2a-4ec3-80c5-2c3bb73a9fb6",
+            "nome": "Mergulho de tríceps",
+            "repeticoes": "3 séries de 10 repetições",
+            "descricao": "Sente-se em uma barra paralela, segure-a com as mãos ao lado do corpo e estenda as pernas para frente. Desça o corpo até que os braços formem um ângulo de 90 graus e, em seguida, empurre de volta à posição inicial."
+        },
+        {
+            "uuid": "f1991b8d-61ba-4748-9667-18abdf609c5f",
+            "nome": "Levantamento de perna",
+            "repeticoes": "3 séries de 15 repetições por perna",
+            "descricao": "Fique em pé com as mãos nos quadris. Levante uma perna para o lado o mais alto que puder, mantendo-a reta, e depois abaixe lentamente de volta à posição inicial. Repita com a outra perna."
+        },
+        {
+            "uuid": "f5e66310-78b4-42c4-95e2-c0a9c8faa319",
+            "nome": "Flexão inclinada",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Assuma a posição de flexão com as mãos apoiadas em uma superfície elevada, como um banco ou uma cadeira. Faça flexões, mantendo o corpo reto."
+        },
+        {
+            "uuid": "3714c3e3-3e37-4ec5-a62a-9570a1357b9d",
+            "nome": "Remada invertida",
+            "repeticoes": "3 séries de 10 repetições",
+            "descricao": "Segure uma barra fixa com as palmas das mãos voltadas para o corpo e os braços estendidos. Levante o corpo até que o peito quase toque a barra e então abaixe lentamente de volta à posição inicial."
+        },
+        {
+            "uuid": "0d99e436-6feb-4b77-845a-8b20d43dbf60",
+            "nome": "Abdominal bicicleta",
+            "repeticoes": "3 séries de 20 repetições",
+            "descricao": "Deite-se de costas com as mãos atrás da cabeça e as pernas estendidas. Levante os ombros do chão e traga o joelho direito em direção ao cotovelo esquerdo enquanto estende a perna esquerda. Alterne os lados como se estivesse pedalando uma bicicleta."
+        },
+        {
+            "uuid": "d67cca15-5bdf-4c92-8427-9e794d85939a",
+            "nome": "Flexão pike",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Assuma a posição de flexão com as mãos no chão e os pés em uma elevação, como uma cadeira. Mantenha as pernas retas e levante os quadris em direção ao teto, formando um ângulo de 90 graus entre o tronco e as pernas, e então abaixe de volta à posição inicial."
+        },
+        {
+            "uuid": "d2490a0f-1253-4176-a40e-803d8bfc9eda",
+            "nome": "Pullover",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Deite-se de costas com um haltere segurado com as duas mãos acima do peito. Mantenha os braços quase retos e abaixe o haltere atrás da cabeça o mais longe possível, mantendo os braços estendidos. Em seguida, levante o haltere de volta à posição inicial."
+        },
+        {
+            "uuid": "f9807d2e-2ab9-4ed3-9176-574abe87f8ff",
+            "nome": "Agachamento sumô",
+            "repeticoes": "3 séries de 15 repetições",
+            "descricao": "Fique em pé com os pés mais afastados que a largura dos ombros e os dedos dos pés virados para fora. Flexione os joelhos e abaixe o corpo, mantendo os joelhos alinhados com os tornozelos, e então retorne à posição inicial."
+        },
+        {
+            "uuid": "8402e2b4-ab65-49ea-8923-be46332c0897",
+            "nome": "Flexão explosiva",
+            "repeticoes": "3 séries de 10 repetições",
+            "descricao": "Assuma a posição de flexão e abaixe o corpo normalmente. Quando empurrar de volta à posição inicial, empurre com bastante força para que as mãos saiam do chão."
+        },
+        {
+            "uuid": "41e19236-e67c-4521-b2f6-e6baf328298d",
+            "nome": "Prancha lateral",
+            "repeticoes": "3 séries de 30 segundos por lado",
+            "descricao": "Deite-se de lado com o cotovelo diretamente abaixo do ombro e as pernas estendidas, apoiadas no pé externo. Levante os quadris do chão, formando uma linha reta dos ombros aos pés, e mantenha essa posição."
+        },
+        {
+            "uuid": "6fc0e66f-f725-432b-bb9c-a0b2c00de9c0",
+            "nome": "Flexão declinada",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Assuma a posição de flexão com os pés apoiados em uma elevação, como um banco. Faça flexões, mantendo o corpo reto."
+        },
+        {
+            "uuid": "92fbddcb-77f2-4d56-b33f-562148725bbc",
+            "nome": "Agachamento búlgaro",
+            "repeticoes": "3 séries de 10 repetições por perna",
+            "descricao": "Fique de costas para um banco ou cadeira, com uma perna apoiada no banco e a outra estendida para a frente. Flexione o joelho da perna de trás e abaixe o corpo até que o joelho da perna da frente esteja dobrado em cerca de 90 graus. Volte à posição inicial e repita com a outra perna."
+        },
+        {
+            "uuid": "1dd30aa8-382e-445b-bf42-5e312419aef3",
+            "nome": "Flexão pino",
+            "repeticoes": "3 séries de 8 repetições",
+            "descricao": "Assuma a posição de flexão com as pernas apoiadas em uma superfície elevada, como uma parede. Faça flexões, mantendo o corpo reto e as pernas elevadas."
+        },
+        {
+            "uuid": "a8d9ce18-5bf0-4b1d-970b-60febd21f991",
+            "nome": "Escalador",
+            "repeticoes": "3 séries de 20 repetições (cada lado)",
+            "descricao": "Assuma a posição de flexão com as mãos no chão e os pés estendidos para trás. Traga alternadamente os joelhos em direção ao peito o mais rápido que puder, mantendo o corpo reto."
+        },
+        {
+            "uuid": "15c90ac6-3b58-4345-bd17-94fbdac041ba",
+            "nome": "Pull-up",
+            "repeticoes": "3 séries de 8 repetições",
+            "descricao": "Segure uma barra fixa com as palmas das mãos voltadas para longe do corpo e os braços estendidos. Levante o corpo até que o queixo ultrapasse a barra e então abaixe lentamente de volta à posição inicial."
+        },
+        {
+            "uuid": "1fb25862-426c-4ed3-b3f3-4d8752a3cb25",
+            "nome": "Flexão T",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Assuma a posição de flexão com as mãos um pouco mais afastadas que a largura dos ombros. Ao subir, estenda um dos braços para o teto, formando um 'T' com o corpo, e então volte à posição inicial e repita com o outro braço."
+        },
+        {
+            "uuid": "8d1b9380-108e-4ec6-b9aa-d5c760ba385c",
+            "nome": "Superman",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Deite-se de barriga para baixo com os braços estendidos para a frente e as pernas estendidas para trás. Levante os braços e as pernas do chão, mantendo o abdômen contraído, e então abaixe de volta à posição inicial."
+        },
+        {
+            "uuid": "80be428c-3cf5-4f41-9129-3c095154333b",
+            "nome": "Prancha com elevação de braço",
+            "repeticoes": "3 séries de 10 repetições (cada lado)",
+            "descricao": "Assuma a posição de prancha com os pés afastados na largura dos ombros. Levante um braço para cima, estendendo-o para o teto, e depois retorne à posição inicial. Repita com o outro braço."
+        },
+        {
+            "uuid": "330882d9-3445-4876-af94-2d8e7da22c9f",
+            "nome": "Escalador em V",
+            "repeticoes": "3 séries de 20 repetições (cada lado)",
+            "descricao": "Assuma a posição de flexão com as mãos no chão e os pés estendidos para trás. Traga alternadamente os joelhos em direção ao peito enquanto gira o quadril para cima, formando uma posição de V invertido."
+        },
+        {
+            "uuid": "5116e76c-f7ec-4a4b-ba51-23c0416d1df3",
+            "nome": "Levantamento de perna deitado",
+            "repeticoes": "3 séries de 15 repetições (cada lado)",
+            "descricao": "Deite-se de lado com as pernas estendidas. Levante a perna superior o mais alto que puder, mantendo-a reta, e depois abaixe lentamente de volta à posição inicial. Repita com a outra perna."
+        },
+        {
+            "uuid": "192c1497-27ec-4445-b926-8f8299c48473",
+            "nome": "Flexão com clap",
+            "repeticoes": "3 séries de 8 repetições",
+            "descricao": "Assuma a posição de flexão e abaixe o corpo normalmente. Quando empurrar de volta à posição inicial, empurre com bastante força para que as mãos saiam do chão e você possa dar um tapa nas mãos no ar antes de aterrissar."
+        },
+        {
+            "uuid": "1110f12b-94b2-4023-bc50-d269c8e166cb",
+            "nome": "Prancha com rotação",
+            "repeticoes": "3 séries de 10 repetições (cada lado)",
+            "descricao": "Assuma a posição de prancha com os pés afastados na largura dos ombros. Gire o tronco para o lado, estendendo um braço para o teto, e depois retorne à posição inicial. Repita com o outro lado."
+        },
+        {
+            "uuid": "74f96ac4-d223-45df-85db-555815bc3430",
+            "nome": "Prancha com joelhos no peito",
+            "repeticoes": "3 séries de 15 repetições",
+            "descricao": "Assuma a posição de prancha com os pés afastados na largura dos ombros. Traga alternadamente os joelhos em direção ao peito, mantendo o abdômen contraído."
+        },
+        {
+            "uuid": "91b447b0-0a0c-4add-97b9-ded42182f757",
+            "nome": "Flexão arqueada",
+            "repeticoes": "3 séries de 12 repetições",
+            "descricao": "Assuma a posição de flexão com as mãos um pouco mais afastadas que a largura dos ombros. Ao subir, arqueie o corpo, olhando para o teto, e depois retorne à posição inicial."
+        },
+        {
+            "uuid": "814ad27f-3abf-4cbb-88a4-1fdfd21891b5",
+            "nome": "Flexão unilateral",
+            "repeticoes": "3 séries de 10 repetições (cada lado)",
+            "descricao": "Assuma a posição de flexão com uma mão no chão e a outra mão nas costas. Faça flexões, alternando o lado que apoia o corpo a cada repetição."
+        }
+    ]
+}
