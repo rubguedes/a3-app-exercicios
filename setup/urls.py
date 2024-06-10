@@ -17,14 +17,16 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from exercicios.views import ExerciciosViewSet
-from usuario.views import UsuariosViewSet
+from usuario.views import UsuariosViewSet, HistoricosViewSet, HistoricoExerciciosUsuario
 from rest_framework import routers
 
 router = routers.DefaultRouter()
-router.register('exercicios', ExerciciosViewSet, basename='Exercícios')
-router.register('usuario', UsuariosViewSet, basename='Usuários')
+router.register('exercicios', ExerciciosViewSet, basename='Exercicios')
+router.register('usuarios', UsuariosViewSet, basename='Usuarios')
+router.register('historicos', HistoricosViewSet, basename='Historico')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include(router.urls)),
+    path('usuarios/<int:pk>/historicos/', HistoricoExerciciosUsuario.as_view())
 ]
